@@ -1,0 +1,12 @@
+{
+   "chrome_url_overrides": {
+      "newtab": "empty_ntp.html"
+   },
+   "description": "Fuck off Microsoft. Let me decide on my new tab page.",
+   "icons": {
+      "128": "icons/icon_128.png"
+   },
+   "manifest_version": 3,
+   "name": "Nra Empty New Tab Page",
+   "version": "1.0.0"
+}
